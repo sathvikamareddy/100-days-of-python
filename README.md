@@ -1,2 +1,51 @@
-# 100-days-of-python
-A 100-day Python coding challenge where I build and improve real-world projects daily to strengthen problem-solving and development skills.
+# 🐍 100 Days of Python
+
+🚀 My journey of building 100 Python projects in 100 days.
+
+## 📅 Start Date-[16-05-2026]
+
+## 🎯 Goal
+To become a strong Python developer by building real-world projects, improving problem-solving skills, and maintaining consistency.
+
+---
+
+## 📌 Progress Tracker
+
+| Day | Project Name | Status | Link |
+|-----|------------|--------|------|
+| Day 1 | Band Name Generator | ✅ | [View](./Band_name_generator.py) |
+| Day 2 | Tip Calculator | 🔄 |  |
+
+---
+
+## 🧠 What I'm Learning
+- Python fundamentals
+- Object-Oriented Programming (OOP)
+- APIs & Web Development
+- Automation & Scripting
+- Debugging & Problem Solving
+
+---
+
+## ⚙️ Tech Stack
+- Python 🐍
+- Git & GitHub
+- VS Code
+
+---
+
+## 🔥 Highlights
+- Built real-world projects
+- Added custom improvements beyond course content
+- Maintaining daily consistency
+- Writing clean and readable code
+
+---
+
+## 📈 My Commitment
+I will push at least one update every day and continuously improve my projects.
+
+---
+
+## 🤝 Connect With Me
+[https://github.com/nitheesh011109]
