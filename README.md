@@ -2,7 +2,7 @@
 
 🚀 My journey of building 100 Python projects in 100 days.
 
-## 📅 Start Date-[16-05-2026]
+## 📅 Start Date-[17-05-2026]
 
 ## 🎯 Goal
 To become a strong Python developer by building real-world projects, improving problem-solving skills, and maintaining consistency.
