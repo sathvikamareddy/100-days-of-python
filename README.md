@@ -29,7 +29,8 @@ This repository documents my commitment to building **100 Python projects in 100
 |-----|----------|--------|-------------|
 | 01 | Band Name Generator | ✅ Completed | [View Project](./Band_name_generator.py) |
 | 02 | Tip Calculator | ✅ Completed | [View Project](./Tip_calculator.py) |
-| 03 | Treasure Island | 🔄 In Progress | Comming Soon |
+| 03 | Treasure Island | ✅ Completed | [View Project](./Treasure_island.py) |
+| 04 | Rock Paper Scissiors | 🔄 In Progress | Comming Soon | 
 
 ---
 
