@@ -31,7 +31,7 @@ This repository documents my commitment to building **100 Python projects in 100
 | 02 | Tip Calculator | ✅ Completed | [View Project](./Tip_calculator.py) |
 | 03 | Treasure Island | ✅ Completed | [View Project](./Treasure_island.py) |
 | 04 | Rock Paper Scissiors | ✅ Completed | [View Project](./Rock_paper_scissors.py) | 
-| 05 | Password Generator | | 🔄 In Progress | Comming Soon |
+| 05 | Password Generator  | 🔄 In Progress | Comming Soon |
 
 ---
 
