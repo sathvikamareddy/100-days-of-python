@@ -32,7 +32,7 @@ This repository documents my commitment to building **100 Python projects in 100
 | 03 | Treasure Island | ✅ Completed | [View Project](./Treasure_island.py) |
 | 04 | Rock Paper Scissiors | ✅ Completed | [View Project](./Rock_paper_scissors.py) | 
 | 05 | Password Generator | ✅ Completed | [View Project](./Password_generator.py) |
-| 05 | Caesar Cipher | 🔄 In Progress | Comming Soon |
+| 06 | Caesar Cipher | 🔄 In Progress | Comming Soon |
 
 ---
 
