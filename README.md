@@ -33,7 +33,8 @@ This repository documents my commitment to building **100 Python projects in 100
 | 04 | Rock Paper Scissiors | ✅ Completed | [View Project](./Rock_paper_scissors.py) | 
 | 05 | Password Generator | ✅ Completed | [View Project](./Password_generator.py) |
 | 06 | Hangman | ✅ Completed | [View Project](./Hangman.py) |
-| 07 | Caesar Cipher | 🔄 In Progress | Comming Soon |
+| 07 | Caesar Cipher| ✅ Completed | [View Project](./Caesar_Cipher.py)
+| 08 |	Secret Auction | 🔄 In Progress | Comming Soon |
 
 ---
 
