@@ -34,7 +34,8 @@ This repository documents my commitment to building **100 Python projects in 100
 | 05 | Password Generator | ✅ Completed | [View Project](./Password_generator.py) |
 | 06 | Hangman | ✅ Completed | [View Project](./Hangman.py) |
 | 07 | Caesar Cipher| ✅ Completed | [View Project](./Caesar_Cipher.py)
-| 08 |	Secret Auction | 🔄 In Progress | Comming Soon |
+| 08 |	Secret Auction | ✅ Completed | [View Project](./Secret_auction.py) |
+| 09 | Calculator | 🔄 In Progress | Comming Soon |
 
 ---
 
