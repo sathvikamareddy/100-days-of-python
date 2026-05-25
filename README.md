@@ -35,7 +35,8 @@ This repository documents my commitment to building **100 Python projects in 100
 | 06 | Hangman | ✅ Completed | [View Project](./Hangman.py) |
 | 07 | Caesar Cipher| ✅ Completed | [View Project](./Caesar_Cipher.py)
 | 08 |	Secret Auction | ✅ Completed | [View Project](./Secret_auction.py) |
-| 09 | Calculator | 🔄 In Progress | Comming Soon |
+| 09 | Calculator | ✅ Completed | [View Project](./Calculator.py) |
+| 10 | Black Jack | 🔄 In Progress | Comming Soon |
 
 ---
 
