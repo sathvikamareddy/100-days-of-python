@@ -36,8 +36,8 @@ This repository documents my commitment to building **100 Python projects in 100
 | 07 | Caesar Cipher| ✅ Completed | [View Project](./Caesar_Cipher.py)
 | 08 |	Secret Auction | ✅ Completed | [View Project](./Secret_auction.py) |
 | 09 | Calculator | ✅ Completed | [View Project](./Calculator.py) |
-| 10 | Black Jack | ✅ Completed | [View_Project](Blackjack.py)|
-| 11 |  Number guessing          |🔄 In Progress |Comming Soon 
+| 10 | Black Jack | ✅ Completed | [View_Project](./Blackjack.py)|
+| 11 | Number guessing |✅ Completed | [View Project](./Guess.number.py) |  
 
 
 ---
