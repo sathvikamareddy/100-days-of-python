@@ -38,6 +38,7 @@ This repository documents my commitment to building **100 Python projects in 100
 | 09 | Calculator | ✅ Completed | [View Project](./Calculator.py) |
 | 10 | Black Jack | ✅ Completed | [View_Project](./Blackjack.py)|
 | 11 | Number guessing |✅ Completed | [View Project](./Guess_number.py) |  
+| 12 | Higher Lower Game | ✅ Completed | [View Project](./Higher_lower_game.py) |
 
 
 ---
