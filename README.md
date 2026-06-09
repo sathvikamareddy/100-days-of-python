@@ -42,7 +42,7 @@ This repository documents my commitment to building **100 Python projects in 100
 | 13 | Coffee Machine | ✅ Completed | [View Project](./Coffee_machine.py) | 
 | 14 | Higher Lower Game | ✅ Completed | [View Project](./Higher_lower_game.py) |
 | 15 | Quiz Project | ✅ Completed | [View Project](./Quiz_main.py) |
-| 16 | Hist Painting Project | 🔄 | 
+| 16 | Hist Painting Project | 🔄 | In Progress 🚧 |
 
 ---
 
